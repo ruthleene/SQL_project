@@ -152,6 +152,8 @@ LIMIT 5
 
 - These skills form the core toolkit of a Data Analyst.
 
+![Most In-Demand Skills](/Users/ruthleene/Desktop/SQL/SQL_project/image_coding/images/image/Picture1.png)
+
 ## 4. Skills Associated With Higher Salaries
 
 This query calculates the average salary associated with each skill.
