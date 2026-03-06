@@ -1,6 +1,6 @@
 # Introduction
 
-Diving into the data job market, this prokect focuses on data analys roles where I explore top-paying jobs, in-demand skills, and where high demand meets high salary in data analytics. 
+Diving into the data job market, this project focuses on data analys roles where I explore top-paying jobs, in-demand skills, and where high demand meets high salary in data analytics. 
 
 My SQL Queries are here [Project_sql folder](/SQL_project/Proect_sql
 )
