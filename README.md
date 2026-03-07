@@ -71,6 +71,7 @@ LIMIT 10
 
 - **Variety of Roles:** Job titles range from Data Analyst to Director of Analytics, reflecting the wide range of positions and specializations within the data analytics field.
 
+![Top Paying Roles](Assets/images/image/1_top_paying_roles.png)
 
 ## 2. Skills Required for Top Paying Jobs
 
@@ -108,13 +109,11 @@ ORDER BY
 
 ### Key Insights
 
-- SQL appears in many of the highest-paying roles.
+- SQL is leading with a bold count of 8.
+- Python follows closely with a bold count of 7.
+- Tableau is also highly sought after, with a bold count of 6. Other skills like R, Snowflake, Pandas, and Excel show varying degrees of demand.
 
-- Programming languages like Python and R are also common.
-
-- Visualization tools such as Tableau are frequently required.
-
-- This shows that strong data querying, programming, and visualization skills are critical for high-paying analytics roles.
+![Top Paying Skills](Assets/images/image/2_top_paying_skills_in_roles.png)
 
 ## 3. Most In-Demand Skills for Data Analysts
 
@@ -148,7 +147,7 @@ LIMIT 5
 - **Technical & Visualization Skills:** Tools such as Python, Tableau, and Power BI are increasingly valuable, reflecting the growing role of technical analysis and data visualization in supporting business decisions.
 
 
-![Most In-Demand Skills](Assets/images/image/Picture1.png)
+![Most In-Demand Skills](Assets/images/image/3_top_paying_skills.png)
 
 ## 4. Skills Associated With Higher Salaries
 
@@ -169,13 +168,21 @@ GROUP BY skills
 ORDER BY avg_salary DESC
 LIMIT 25
 ``` 
+
 ### Key Insights
 
-- **High Demand for Big Data & Machine Learning Skills:** Tools such as PySpark, Couchbase, DataRobot, Jupyter, Pandas, and NumPy are associated with higher salaries, highlighting the value of skills in large-scale data processing and predictive modeling.
+- SVN is a significant outlier at $400K avg salary, likely skewed by a single high-paying job posting rather than true market demand
 
-- **Data Engineering & Automation Skills:** Knowledge of tools like GitLab, Kubernetes, and Airflow shows the increasing overlap between data analysis and data engineering, where automation and efficient data pipeline management are highly valued.
+- **Niche Skills Pay More Than Common Ones:** Specialized tools like Solidity, Couchbase, and DataRobot sit at the top of the salary range — analysts with rare, in-demand skills can command significantly higher pay than those sticking to mainstream tools.
 
-- **Cloud & Modern Data Infrastructure:** Familiarity with platforms such as Elasticsearch, Databricks, and Google Cloud Platform (GCP) emphasizes the growing importance of cloud-based analytics environments in modern data workflows.
+- **Machine Learning Skills Are Worth Learning:** PyTorch, TensorFlow, Keras, and Hugging Face all correlate with salaries above $120K, suggesting that data analysts who branch into ML workflows are rewarded for it.
+
+- **DevOps Crossover Is Increasingly Valuable:** Tools like Terraform, Ansible, and Puppet showing up in analyst roles signals that the line between analyst and engineer is blurring — and analysts who can navigate both worlds earn more.
+
+- **Collaboration & Version Control Tools Matter:** GitLab, Bitbucket, and Atlassian appearing in high-salary postings suggests analysts working in structured, engineering-style teams tend to earn above average.
+
+
+![Skills Ranked by Highest Average Salary](Assets/images/image/4_top_paying_skills.png)
 
 ## 5. Most Optimal Skills to Learn
 
@@ -234,6 +241,8 @@ ORDER BY
 - **Data Engineering & Automation Tools:** Knowledge of tools such as GitLab, Kubernetes, and Airflow reflects the growing overlap between data analytics and data engineering, where automation and efficient data pipeline management are highly valued.
 
 - **Cloud & Modern Data Platforms:** Familiarity with platforms like Elasticsearch, Databricks, and Google Cloud Platform (GCP) emphasizes the increasing importance of cloud-based analytics environments in modern data workflows.
+
+![Most Optimal Skills Based on Salary and Demand](Assets/images/image/5_optimal_skills.png)
 
 # What I Learned
 

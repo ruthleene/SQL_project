@@ -47,4 +47,6 @@ INNER JOIN average_salary
 WHERE total_demand >10
 ORDER BY 
     total_demand DESC,
-    avg_salary DESC;
+    avg_salary DESC
+    LIMIT 10;
+
