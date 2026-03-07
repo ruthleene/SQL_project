@@ -143,14 +143,10 @@ ORDER BY total_demand DESC
 LIMIT 5
 ```
 ### Key Insights
+- **Foundational Tools:** SQL and Excel remain core skills for data analysts, highlighting the importance of strong abilities in data querying, processing, and spreadsheet analysis.
 
-- SQL is the most frequently requested skill.
+- **Technical & Visualization Skills:** Tools such as Python, Tableau, and Power BI are increasingly valuable, reflecting the growing role of technical analysis and data visualization in supporting business decisions.
 
-- Excel remains a widely used tool for data analysis.
-
-- Python and visualization tools like Tableau and Power BI are also highly demanded.
-
-- These skills form the core toolkit of a Data Analyst.
 
 ![Most In-Demand Skills](Assets/images/image/Picture1.png)
 
@@ -175,11 +171,11 @@ LIMIT 25
 ``` 
 ### Key Insights
 
-- Skills related to cloud computing and data engineering tools tend to have higher salaries.
+- **High Demand for Big Data & Machine Learning Skills:** Tools such as PySpark, Couchbase, DataRobot, Jupyter, Pandas, and NumPy are associated with higher salaries, highlighting the value of skills in large-scale data processing and predictive modeling.
 
-- Tools like Snowflake, AWS, and BigQuery appear in higher-paying roles.
+- **Data Engineering & Automation Skills:** Knowledge of tools like GitLab, Kubernetes, and Airflow shows the increasing overlap between data analysis and data engineering, where automation and efficient data pipeline management are highly valued.
 
-- Advanced technical skills can significantly increase earning potential.
+- **Cloud & Modern Data Infrastructure:** Familiarity with platforms such as Elasticsearch, Databricks, and Google Cloud Platform (GCP) emphasizes the growing importance of cloud-based analytics environments in modern data workflows.
 
 ## 5. Most Optimal Skills to Learn
 
@@ -233,12 +229,11 @@ ORDER BY
 ```
 
 ### Key Insights
+- **Big Data & Machine Learning Skills:** High salaries are often associated with skills in PySpark, Couchbase, DataRobot, Jupyter, Pandas, and NumPy, highlighting the strong demand for expertise in large-scale data processing and predictive analytics.
 
-- The most optimal skills balance high demand and strong salary potential.
+- **Data Engineering & Automation Tools:** Knowledge of tools such as GitLab, Kubernetes, and Airflow reflects the growing overlap between data analytics and data engineering, where automation and efficient data pipeline management are highly valued.
 
-- Skills like SQL, Python, Tableau, and Snowflake stand out as valuable tools for Data Analysts.
-
-- Learning both core analytics tools and modern data technologies can improve job opportunities and salary potential.
+- **Cloud & Modern Data Platforms:** Familiarity with platforms like Elasticsearch, Databricks, and Google Cloud Platform (GCP) emphasizes the increasing importance of cloud-based analytics environments in modern data workflows.
 
 # What I Learned
 
